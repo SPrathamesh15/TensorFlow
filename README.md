@@ -29,10 +29,10 @@ Below there are two tasks. I highly recommend doing them because while watching 
 
 ### Tasks
 
-1. [Watch me coding](https://www.youtube.com/watch?v=J3_b4461qxU)
+1. [Watch Me Coding](https://www.youtube.com/watch?v=J3_b4461qxU)
 
 
-2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.eagerexec.ipynb) 
+2. [Code Yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.eagerexec.ipynb) 
 
 ## Integration of the Keras API
 
@@ -46,12 +46,12 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 ### Tasks
 
-1. [Watch me coding](https://www.youtube.com/watch?v=D4mJZQdgV0Y)
+1. [Watch Me Coding](https://www.youtube.com/watch?v=D4mJZQdgV0Y)
 
 
-2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.keras.ipynb) 
+2. [Code Yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.keras.ipynb) 
 
 
 
-If you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
+If you want to learn more, please have a look at our [Book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
 
